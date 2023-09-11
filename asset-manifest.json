@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/robocards/static/css/main.5e37ba1f.css",
+    "main.css": "/robocards/static/css/main.64f24f3a.css",
     "main.js": "/robocards/static/js/main.11bc14a8.js",
     "static/js/496.b0b9c95c.chunk.js": "/robocards/static/js/496.b0b9c95c.chunk.js",
     "index.html": "/robocards/index.html",
-    "main.5e37ba1f.css.map": "/robocards/static/css/main.5e37ba1f.css.map",
+    "main.64f24f3a.css.map": "/robocards/static/css/main.64f24f3a.css.map",
     "main.11bc14a8.js.map": "/robocards/static/js/main.11bc14a8.js.map",
     "496.b0b9c95c.chunk.js.map": "/robocards/static/js/496.b0b9c95c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5e37ba1f.css",
+    "static/css/main.64f24f3a.css",
     "static/js/main.11bc14a8.js"
   ]
 }

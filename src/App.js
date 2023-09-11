@@ -3,7 +3,6 @@ import './App.css';
 
 function App() {
   const [users, setUsers] = useState([]);
-  console.log(users);
 
   const fetchUserData = () => {
     fetch('https://random-data-api.com/api/users/random_user?size=8')
@@ -21,7 +20,7 @@ function App() {
 
   return (
     <div>
-      <button className='button' onClick={() => window.location.reload()}>
+      <button className='button' onClick={fetchUserData}>
         Fetch now
       </button>
       <div className='container'>

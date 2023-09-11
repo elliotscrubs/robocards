@@ -11,9 +11,10 @@
   background-color: transparent;
   width: 400px;
   height: 400px;
-  margin: 5px;
+  margin: 8px;
   overflow: hidden;
   margin-top: 50px;
+  box-shadow: 10px 10px 5px 5px lightblue;
 }
 
 .flip-card-inner {
@@ -36,6 +37,7 @@
   height: 100%;
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
+  box-shadow: 10px 10px 5px 5px lightblue;
 }
 
 .flip-card-front {
